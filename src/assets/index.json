@@ -1,0 +1,14 @@
+[
+            {
+                "name": "youtube",
+                "url": "https://www.youtube.com"
+            },
+            {
+                "name": "reddit",
+                "url": "https://www.reddit.com"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com"
+            }
+]
